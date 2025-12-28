@@ -14,10 +14,28 @@ File: PROJECT1.py
 
 ---
 
+## Task 2: Full Name Greeting Program
+This program:
+- Takes the user's first name and last name as input
+- Concatenates the first name and last name to form a full name
+- Prints a personalized greeting message using the full name
+
+Example:
+
+Enter your first name: John
+Enter your last name: Doe
+Hello, John Doe! Welcome!
+
+
+File: PROJECT2.py
+
+---
+
 ## How to Run
 
 ```bash
 python PROJECT1.py
+python project2.py
 
 ## Technologies Used
 - Python
